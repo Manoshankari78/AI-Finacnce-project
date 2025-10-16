@@ -1,0 +1,26 @@
+﻿# Python virtual env
+venv/
+env/
+*.venv/
+
+# Bytecode / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Per-user runtime data (keep default synthetic_user.json tracked)
+data/*_user.json
+
+# Notebook checkpoints
+.ipynb_checkpoints/

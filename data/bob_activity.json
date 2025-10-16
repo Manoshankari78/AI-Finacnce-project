@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-10-16 12:30:40",
+    "action": "Updated profile",
+    "details": "Income: \u20b9100000.0, Expenses: \u20b940000.0, Risk: Medium, Email: bob@example.com"
+  },
+  {
+    "timestamp": "2025-09-25 14:28:37",
+    "action": "Updated profile",
+    "details": "Income: \u20b9100000.0, Expenses: \u20b940000.0, Risk: Medium, Email: bob@example.com"
+  },
+  {
+    "timestamp": "2025-09-24 23:50:46",
+    "action": "Completed goal",
+    "details": "Vacation"
+  },
+  {
+    "timestamp": "2025-09-24 23:38:33",
+    "action": "Updated goal",
+    "details": "Retirement (Target: \u20b910000000.0, Current: \u20b910500.0, Deadline: 2045-01-01)"
+  },
+  {
+    "timestamp": "2025-09-24 23:38:27",
+    "action": "Updated goal",
+    "details": "Retirement (Target: \u20b910000000.0, Current: \u20b910500.0, Deadline: 2045-01-01)"
+  }
+]
